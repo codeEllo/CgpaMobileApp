@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical"
+	android:padding="16dp"
+	tools:context=".CourseActivity">
+
+	<EditText
+		android:id="@+id/edit_courseId"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:hint="ID"
+		android:layout_margin="10dp"
+		android:inputType="text"/>
+
+	<EditText
+		android:id="@+id/edit_courseCode"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:hint="CSC645, CSC577"
+		android:layout_margin="10dp"
+		android:inputType="text"/>
+
+	<EditText
+		android:id="@+id/edit_courseName"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:hint="STRUCTURED PROGRAMMING"
+		android:layout_margin="5dp"
+		android:inputType="text"/>
+
+	<EditText
+		android:id="@+id/edit_courseCredit"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:hint="3.00"
+		android:layout_margin="5dp"
+		android:inputType="numberDecimal"/>
+
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:orientation="horizontal">
+
+		<Button
+			android:id="@+id/button_insert"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="Insert"
+			android:textSize="18sp"
+			android:backgroundTint="@color/colorPrimary"
+			android:textColor="@android:color/white"
+			android:layout_weight="1"
+			android:layout_marginTop="20dp" />
+
+		<Button
+			android:id="@+id/button_search"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="SEARCH"
+			android:textSize="18sp"
+			android:backgroundTint="@color/colorPrimary"
+			android:textColor="@android:color/white"
+			android:layout_weight="1"
+			android:layout_marginTop="20dp"/>
+	</LinearLayout>
+
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:orientation="horizontal">
+
+		<Button
+			android:id="@+id/button_delete"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="delete"
+			android:textSize="18sp"
+			android:backgroundTint="@color/colorPrimary"
+			android:textColor="@android:color/white"
+			android:layout_weight="1"
+			android:layout_marginTop="20dp"/>
+
+		<Button
+			android:id="@+id/button_update"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="update"
+			android:textSize="18sp"
+			android:backgroundTint="@color/colorPrimary"
+			android:textColor="@android:color/white"
+			android:layout_weight="1"
+			android:layout_marginTop="20dp"/>
+	</LinearLayout>
+	<ScrollView
+		android:layout_width="match_parent"
+		android:layout_height="match_parent">
+		<TextView
+			android:id="@+id/view_data"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:textSize="15sp"
+			android:text="Text"
+			android:padding="10dp"
+			android:textColor="@android:color/black"
+			android:scrollbars="vertical"/>
+	</ScrollView>
+
+
+
+</LinearLayout>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Student Grading App</string>
+    <string name="open">Open Navigation</string>
+    <string name="close">Close Navigation</string>
+</resources>

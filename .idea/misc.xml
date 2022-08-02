@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ellya/Desktop/SEMESTER 5 DEGREE SUBJECTS/CSC557 - MOBILE PROGRAMMING/Login/app/src/main/res/drawable-v24/edittextbackground.xml" value="0.1" />
+        <entry key="..\:/Users/ellya/Desktop/SEMESTER 5 DEGREE SUBJECTS/CSC557 - MOBILE PROGRAMMING/Login/app/src/main/res/drawable-v24/ic_course.xml" value="0.1625" />
+        <entry key="..\:/Users/ellya/Desktop/SEMESTER 5 DEGREE SUBJECTS/CSC557 - MOBILE PROGRAMMING/Login/app/src/main/res/drawable-v24/ic_home.xml" value="0.2965" />
+        <entry key="..\:/Users/ellya/Desktop/SEMESTER 5 DEGREE SUBJECTS/CSC557 - MOBILE PROGRAMMING/Login/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/ellya/Desktop/SEMESTER 5 DEGREE SUBJECTS/CSC557 - MOBILE PROGRAMMING/Login/app/src/main/res/drawable/ic_course.xml" value="0.294" />
+        <entry key="..\:/Users/ellya/Desktop/SEMESTER 5 DEGREE SUBJECTS/CSC557 - MOBILE PROGRAMMING/Login/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1625" />
+        <entry key="..\:/Users/ellya/Desktop/SEMESTER 5 DEGREE SUBJECTS/CSC557 - MOBILE PROGRAMMING/Login/app/src/main/res/drawable/ic_rc.xml" value="0.294" />
+        <entry key="..\:/Users/ellya/Desktop/SEMESTER 5 DEGREE SUBJECTS/CSC557 - MOBILE PROGRAMMING/Login/app/src/main/res/drawable/ic_stud.xml" value="0.294" />
+        <entry key="..\:/Users/ellya/Desktop/SEMESTER 5 DEGREE SUBJECTS/CSC557 - MOBILE PROGRAMMING/Login/app/src/main/res/drawable/ic_student.xml" value="0.294" />
+        <entry key="..\:/Users/ellya/Desktop/SEMESTER 5 DEGREE SUBJECTS/CSC557 - MOBILE PROGRAMMING/Login/app/src/main/res/layout/activity_course.xml" value="0.22" />
+        <entry key="..\:/Users/ellya/Desktop/SEMESTER 5 DEGREE SUBJECTS/CSC557 - MOBILE PROGRAMMING/Login/app/src/main/res/layout/activity_grade.xml" value="0.1935185185185185" />
+        <entry key="..\:/Users/ellya/Desktop/SEMESTER 5 DEGREE SUBJECTS/CSC557 - MOBILE PROGRAMMING/Login/app/src/main/res/layout/activity_grade_view.xml" value="0.1" />
+        <entry key="..\:/Users/ellya/Desktop/SEMESTER 5 DEGREE SUBJECTS/CSC557 - MOBILE PROGRAMMING/Login/app/src/main/res/layout/activity_homepage.xml" value="0.33" />
+        <entry key="..\:/Users/ellya/Desktop/SEMESTER 5 DEGREE SUBJECTS/CSC557 - MOBILE PROGRAMMING/Login/app/src/main/res/layout/activity_listcourse.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ellya/Desktop/SEMESTER 5 DEGREE SUBJECTS/CSC557 - MOBILE PROGRAMMING/Login/app/src/main/res/layout/activity_login.xml" value="0.1675925925925926" />
+        <entry key="..\:/Users/ellya/Desktop/SEMESTER 5 DEGREE SUBJECTS/CSC557 - MOBILE PROGRAMMING/Login/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/ellya/Desktop/SEMESTER 5 DEGREE SUBJECTS/CSC557 - MOBILE PROGRAMMING/Login/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/Users/ellya/Desktop/SEMESTER 5 DEGREE SUBJECTS/CSC557 - MOBILE PROGRAMMING/Login/app/src/main/res/layout/activity_menu.xml" value="0.18" />
+        <entry key="..\:/Users/ellya/Desktop/SEMESTER 5 DEGREE SUBJECTS/CSC557 - MOBILE PROGRAMMING/Login/app/src/main/res/layout/activity_register.xml" value="0.1675925925925926" />
+        <entry key="..\:/Users/ellya/Desktop/SEMESTER 5 DEGREE SUBJECTS/CSC557 - MOBILE PROGRAMMING/Login/app/src/main/res/layout/activity_registeredcourse.xml" value="0.25" />
+        <entry key="..\:/Users/ellya/Desktop/SEMESTER 5 DEGREE SUBJECTS/CSC557 - MOBILE PROGRAMMING/Login/app/src/main/res/layout/activity_registeredcourseview.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ellya/Desktop/SEMESTER 5 DEGREE SUBJECTS/CSC557 - MOBILE PROGRAMMING/Login/app/src/main/res/layout/activity_result_table.xml" value="0.18" />
+        <entry key="..\:/Users/ellya/Desktop/SEMESTER 5 DEGREE SUBJECTS/CSC557 - MOBILE PROGRAMMING/Login/app/src/main/res/layout/activity_second.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ellya/Desktop/SEMESTER 5 DEGREE SUBJECTS/CSC557 - MOBILE PROGRAMMING/Login/app/src/main/res/layout/barchart.xml" value="0.31342592592592594" />
+        <entry key="..\:/Users/ellya/Desktop/SEMESTER 5 DEGREE SUBJECTS/CSC557 - MOBILE PROGRAMMING/Login/app/src/main/res/layout/list_course.xml" value="0.1" />
+        <entry key="..\:/Users/ellya/Desktop/SEMESTER 5 DEGREE SUBJECTS/CSC557 - MOBILE PROGRAMMING/Login/app/src/main/res/layout/list_item.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/ellya/Desktop/SEMESTER 5 DEGREE SUBJECTS/CSC557 - MOBILE PROGRAMMING/Login/app/src/main/res/layout/nav_header.xml" value="0.5" />
+        <entry key="..\:/Users/ellya/Desktop/SEMESTER 5 DEGREE SUBJECTS/CSC557 - MOBILE PROGRAMMING/Login/app/src/main/res/layout/support_simple_spinner_dropdown_item.xml" value="0.22" />
+        <entry key="..\:/Users/ellya/Desktop/SEMESTER 5 DEGREE SUBJECTS/CSC557 - MOBILE PROGRAMMING/Login/app/src/main/res/menu/grademenu.xml" value="0.2847222222222222" />
+        <entry key="..\:/Users/ellya/Desktop/SEMESTER 5 DEGREE SUBJECTS/CSC557 - MOBILE PROGRAMMING/Login/app/src/main/res/menu/menu_item.xml" value="0.22" />
+        <entry key="..\:/Users/ellya/Desktop/SEMESTER 5 DEGREE SUBJECTS/CSC557 - MOBILE PROGRAMMING/Login/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.249" />
+        <entry key="..\:/Users/ellya/Desktop/SEMESTER 5 DEGREE SUBJECTS/CSC557 - MOBILE PROGRAMMING/Login/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.249" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
